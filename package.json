@@ -1,0 +1,18 @@
+{
+  "author": "trevoro <trevoro@gmail.com>",
+  "name": "snmp-stitch",
+  "description": "POC multiple snmp query API",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trevoro/snmp-stitch.git"
+  },
+  "engines": {
+    "node": "0.6.*"
+  },
+  "dependencies": {
+    "bunyan": "0.6",
+    "restify": "1.1.*"
+  }
+}
+
